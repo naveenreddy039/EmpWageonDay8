@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\EmpWageOnInterface\EmpWageOnInterface\bin\Debug\netcoreapp3.1\EmpWageOnInterface.exe
+C:\Users\hp\source\repos\EmpWageOnInterface\EmpWageOnInterface\bin\Debug\netcoreapp3.1\EmpWageOnInterface.deps.json
+C:\Users\hp\source\repos\EmpWageOnInterface\EmpWageOnInterface\bin\Debug\netcoreapp3.1\EmpWageOnInterface.runtimeconfig.json
+C:\Users\hp\source\repos\EmpWageOnInterface\EmpWageOnInterface\bin\Debug\netcoreapp3.1\EmpWageOnInterface.runtimeconfig.dev.json
+C:\Users\hp\source\repos\EmpWageOnInterface\EmpWageOnInterface\bin\Debug\netcoreapp3.1\EmpWageOnInterface.dll
+C:\Users\hp\source\repos\EmpWageOnInterface\EmpWageOnInterface\bin\Debug\netcoreapp3.1\EmpWageOnInterface.pdb
+C:\Users\hp\source\repos\EmpWageOnInterface\EmpWageOnInterface\obj\Debug\netcoreapp3.1\EmpWageOnInterface.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\EmpWageOnInterface\EmpWageOnInterface\obj\Debug\netcoreapp3.1\EmpWageOnInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\EmpWageOnInterface\EmpWageOnInterface\obj\Debug\netcoreapp3.1\EmpWageOnInterface.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\EmpWageOnInterface\EmpWageOnInterface\obj\Debug\netcoreapp3.1\EmpWageOnInterface.AssemblyInfo.cs
+C:\Users\hp\source\repos\EmpWageOnInterface\EmpWageOnInterface\obj\Debug\netcoreapp3.1\EmpWageOnInterface.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\EmpWageOnInterface\EmpWageOnInterface\obj\Debug\netcoreapp3.1\EmpWageOnInterface.dll
+C:\Users\hp\source\repos\EmpWageOnInterface\EmpWageOnInterface\obj\Debug\netcoreapp3.1\EmpWageOnInterface.pdb
+C:\Users\hp\source\repos\EmpWageOnInterface\EmpWageOnInterface\obj\Debug\netcoreapp3.1\EmpWageOnInterface.genruntimeconfig.cache
