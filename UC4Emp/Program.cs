@@ -15,7 +15,7 @@ namespace UC4Emp
                 int empHrs = 0;
                 int EmpWage = 0;
                 Random random = new Random();
-                int empCheck = random.Next(1, 2);
+                int empCheck = random.Next(0, 2);
                 switch(empCheck)
                 {
                     case IsPartTime:
